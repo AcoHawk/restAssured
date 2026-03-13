@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="376c2a84-fc9a-44e9-8f3e-05c578b5dbb3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="37gm2ewwiY95axmGQf9WLHq5qgN" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.P01_HamCrestMatchesIntro.test2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P01_HamCrestMatchesIntro.testString.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P01_SpartanAuthTest.test1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P01_SpartanAuthTest.test2.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.P01_SpartanAuthTest.test3.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P01_SpartanAuthTest.test4.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P01_SpartanGetRequests.getSpartan.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P01_SpartanTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P01_SpartanTest.getAllSpartans.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P01_SpartansWithJsonPath.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P01_SpartansWithJsonPath.test2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P01_SpartansWithParameters.test1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P01_SpartansWithParameters.test2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P01_SpartansWithParameters.test3.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P01_SpartansWithParameters.test4.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_BookitTest.test1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_HamcrestSpartan.test1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_HamcrestSpartan.test2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_HamcrestSpartan.test3.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_HamcrestSpartan.test4.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_HrWithParameter.test1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_NegativeSpartanTests.xmlTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_SpartanDeserilizationPOJO.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_SpartanGetRequests.getAllSpartans.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_SpartanGetRequests.getSpartan.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_SpartanGetRequests.helloSpartan.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P03_SpartanWithResponsePath.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P03_SpartanWithResponsePath.test1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P03_SpartanWithResponsePath.test2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P03_SpartanWithResponsePath.test3.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P04_HrWithResponsePath.test1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.day07 in restAssured.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.P02_BookitTest.test1">
+    <configuration name="P01_SpartanAuthTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.day08" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.day08.P01_SpartanAuthTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P01_SpartanAuthTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.day08" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.day08.P01_SpartanAuthTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P01_SpartanAuthTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.day08" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.day08.P01_SpartanAuthTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P01_SpartanAuthTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.day08" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.day08.P01_SpartanAuthTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P02_BookitTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.day08" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.day08.P02_BookitTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.P02_BookitTest.test1" />
+        <item itemvalue="JUnit.P01_SpartanAuthTest.test4" />
+        <item itemvalue="JUnit.P01_SpartanAuthTest.test3" />
+        <item itemvalue="JUnit.P01_SpartanAuthTest.test2" />
+        <item itemvalue="JUnit.P01_SpartanAuthTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="376c2a84-fc9a-44e9-8f3e-05c578b5dbb3" name="Changes" comment="" />
+      <created>1767332882826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767332882826</updated>
+      <workItem from="1767332883967" duration="5741000" />
+      <workItem from="1767561009670" duration="9748000" />
+      <workItem from="1767666255277" duration="3609000" />
+      <workItem from="1767827123410" duration="7212000" />
+      <workItem from="1767927766653" duration="3773000" />
+      <workItem from="1768004353569" duration="5240000" />
+      <workItem from="1768094693077" duration="11488000" />
+      <workItem from="1768175029620" duration="4437000" />
+      <workItem from="1768183192433" duration="3750000" />
+      <workItem from="1768269833358" duration="79000" />
+      <workItem from="1768353891022" duration="6429000" />
+      <workItem from="1768443336829" duration="3956000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/.mvn/test/java/com/cydeo/day03/P04_HrWithResponsePath.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
